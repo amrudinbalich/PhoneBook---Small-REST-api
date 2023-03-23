@@ -1,5 +1,5 @@
 # PhoneBook---Small-REST-api
-Small REST type api . Stack used : PHP , MySQL . Postman is used for testing .
+Small REST type api . </br> Stack used : PHP , MySQL . </br> Postman is used for testing .
 
 Endpoints : </br>
 <b>POST -</b> PhoneBook\api\createUser\createUser.php  - Creates new user </br>
